@@ -1,7 +1,9 @@
 ---
 title: About
-Description: About Page
-layout: about
+tags: 
+categories: 
+date: 2023-10-18
+description: About page
 ---
 
 Experienced Data Science and Engineering leader with 7+ years' experience of architecting data and AI solutions, ranging from generative AI based prototype to big data production platform. Hands on experience in Azure, AWS, GCP and multi-cloud data solution.  
