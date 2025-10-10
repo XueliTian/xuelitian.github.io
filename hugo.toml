@@ -18,3 +18,6 @@ theme = 'paper'
   name = "About"
   url = "/about/"
   weight = 2
+
+[build]
+enableRobotsTXT = true
