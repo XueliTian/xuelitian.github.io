@@ -6,21 +6,21 @@
     <description>Recent content on Full Stack Data Engineer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2024 11:23:29 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://xuelitian.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Databricks vs Snowflake</title>
       <link>https://xuelitian.github.io/posts/databricks-vs-snowflake/</link>
-      <pubDate>Tue, 05 Nov 2024 11:23:29 -0400</pubDate>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 +0000</pubDate>
       <guid>https://xuelitian.github.io/posts/databricks-vs-snowflake/</guid>
       <description>&lt;h1 id=&#34;tldr&#34;&gt;TL;DR&lt;/h1&gt;&#xA;&lt;p&gt;Databricks for AI, Snowflake for BI; Databricks for Engineering*, Snowflake for Analyst; Databricks for In-house Development, Snowflake for Consulting Engagements.&lt;/p&gt;&#xA;&lt;p&gt;*Sorry True Data Scientist, you are referred as a ML Engineer here.&lt;/p&gt;&#xA;&lt;p&gt;A slightly longer version: Between those two, If you are looking for a Modern Data Warehousing solution mainly serving Data Analyst or Business Analyst, pick Snowflake; If you are looking for a modern Data Lake mainly serving Data Scientists and Engineers , pick Databricks. If you are looking for something serving all of them, either would work - But what is your team&amp;rsquo;s bread and butter?&lt;/p&gt;</description>
     </item>
     <item>
-      <title>About</title>
+      <title>Kevin Tian</title>
       <link>https://xuelitian.github.io/about/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://xuelitian.github.io/about/</guid>
-      <description>&lt;p&gt;Experienced Data Science and Engineering leader with 7+ years&amp;rsquo; experience of architecting data and AI solutions, ranging from generative AI based prototype to big data production platform. Hands on experience in Azure, AWS, GCP and multi-cloud data solution.&lt;/p&gt;&#xA;&lt;p&gt;I have experience in architecting, developing and improving data and AI systems which includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;architecting and implementing data science platforms and machine learning platforms&lt;/li&gt;&#xA;&lt;li&gt;architecting big data solutions for batch and streaming use cases&lt;/li&gt;&#xA;&lt;li&gt;productionizing machine learning models&lt;/li&gt;&#xA;&lt;li&gt;integrating on-prem legacy data systems with cloud solutions&lt;/li&gt;&#xA;&lt;li&gt;data fusion between enterprise core data and IoT data&lt;/li&gt;&#xA;&lt;li&gt;driving digital transformation with generative AI capabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I am proficient in data and AI tech stack which includes:&lt;/p&gt;</description>
+      <description>&lt;p&gt;Seasoned engineering leader with a proven track record of driving data and AI innovation. Skilled in leading high-performing teams, architecting cloud-native solutions, and delivering complex projects. Hands on experience in Azure, AWS, GCP and multi-cloud data solution.&lt;/p&gt;&#xA;&lt;p&gt;I have experience in leading different data and AI teams, which includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Building multiple engineering teams from the ground up&lt;/li&gt;&#xA;&lt;li&gt;Scaling engineering teams from small, tight-knit groups to larger, more distributed teams of 10 or more members&lt;/li&gt;&#xA;&lt;li&gt;Collaborating closely with executives and key stakeholders to deeply understand business objectives, identify challenges, and design tailored data-driven solutions that align with strategic goals, ensuring measurable impact and value creation.&lt;/li&gt;&#xA;&lt;li&gt;Collaborating with external consulting experts to supplement in-house capabilities and deliver complex projects within tight timelines, particularly in highly specialized domains.&lt;/li&gt;&#xA;&lt;li&gt;Leveraging vendor resources and expertise to supplement in-house capabilities, enhance team productivity, and deliver greater business value.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I have expertise in architecting, developing and improving data and AI systems which includes:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

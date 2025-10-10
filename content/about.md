@@ -1,12 +1,10 @@
 ---
-title: About
+title: Kevin Tian
 tags: 
 categories: 
 date: 2023-10-18
 description: About page
 ---
-
-# Kevin Tian
 
 Seasoned engineering leader with a proven track record of driving data and AI innovation. Skilled in leading high-performing teams, architecting cloud-native solutions, and delivering complex projects. Hands on experience in Azure, AWS, GCP and multi-cloud data solution.
 
