@@ -12,7 +12,7 @@ theme = 'paper'
   # home page profile
   avatar = 'https://avatars.githubusercontent.com/u/1487387'
   name = 'Kevin Tian'
-  bio = 'Lorem ipsum dolor sit amet consectetur adipiscing elit sapien in nibh volutpat enim dis convallis. Felis amet turpis himenaeos risus orci ut velit semper neque malesuada taciti molestie diam facilisi sed per tincidunt donec sociosqu elit lectus suscipit pulvinar torquent gravida. Etiam varius class ante eget aptent blandit lectus lobortis facilisis quam sed fames nunc consequat sodales curabitur ornare facilisi mollis egestas magnis phasellus viverra.'
+  bio = 'Data & AI Architect'
 
 [[menu.main]]
   name = "About"
