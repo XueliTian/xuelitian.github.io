@@ -1,9 +1,8 @@
-+++
-title = 'Databricks vs Snowflake'
-date = 2024-11-05T11:23:29-04:00
-draft = false
-+++
-
+---
+title: Databricks vs Snowflake
+date: 2024-11-05
+draft: false
+---
 
 # TL;DR
 
