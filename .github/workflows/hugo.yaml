@@ -22,6 +22,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v5
+        with:
+          submodules: recursive
+          fetch-depth: 0
+
+      - name: Ensure theme submodules
+        run: git submodule update --init --recursive
 
       # If your site uses Tailwind/PostCSS/JS tooling, keep Node available.
       - name: Setup Node (LTS / Node 20+ on runners)
