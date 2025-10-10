@@ -2,9 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Full Stack Data Engineer</title>
-    <link>https://xuelitian.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Full Stack Data Engineer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://xuelitian.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Experienced Data Science and Engineering leader with 7+ years&amp;rsquo; experience of architecting data and AI solutions, ranging from generative AI based prototype to big data production platform. Hands on experience in Azure, AWS, GCP and multi-cloud data solution.&lt;/p&gt;&#xA;&lt;p&gt;I have experience in architecting, developing and improving data and AI systems which includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;architecting and implementing data science platforms and machine learning platforms&lt;/li&gt;&#xA;&lt;li&gt;architecting big data solutions for batch and streaming use cases&lt;/li&gt;&#xA;&lt;li&gt;productionizing machine learning models&lt;/li&gt;&#xA;&lt;li&gt;integrating on-prem legacy data systems with cloud solutions&lt;/li&gt;&#xA;&lt;li&gt;data fusion between enterprise core data and IoT data&lt;/li&gt;&#xA;&lt;li&gt;driving digital transformation with generative AI capabilities&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I am proficient in data and AI tech stack which includes:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
