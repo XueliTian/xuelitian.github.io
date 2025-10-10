@@ -1,0 +1,40 @@
+# Block everything by default
+User-agent: *
+Disallow: /
+
+# ——— Explicit AI / LLM crawlers (kept current as of Oct 2025) ———
+User-agent: GPTBot              # OpenAI training crawler
+Disallow: /
+User-agent: ChatGPT-User        # OpenAI user fetcher
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: CCBot               # CommonCrawl (used by many AI)
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Claude-User
+Disallow: /
+User-agent: Claude-SearchBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+User-agent: Perplexity-User
+Disallow: /
+
+User-agent: Google-Extended     # Google’s AI training/grounding
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+# (Optionally) allow normal search indexing by flipping the default:
+# User-agent: *
+# Allow: /
+# …but keep the AI agents disallowed as above.

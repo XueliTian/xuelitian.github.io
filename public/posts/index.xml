@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Full Stack Data Engineer</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://xuelitian.github.io/posts/</link>
     <description>Recent content in Posts on Full Stack Data Engineer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Nov 2024 11:23:29 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xuelitian.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Databricks vs Snowflake</title>
-      <link>http://localhost:1313/posts/databricks-vs-snowflake/</link>
+      <link>https://xuelitian.github.io/posts/databricks-vs-snowflake/</link>
       <pubDate>Tue, 05 Nov 2024 11:23:29 -0400</pubDate>
-      <guid>http://localhost:1313/posts/databricks-vs-snowflake/</guid>
+      <guid>https://xuelitian.github.io/posts/databricks-vs-snowflake/</guid>
       <description>&lt;h1 id=&#34;tldr&#34;&gt;TL;DR&lt;/h1&gt;&#xA;&lt;p&gt;Databricks for AI, Snowflake for BI; Databricks for Engineering*, Snowflake for Analyst; Databricks for In-house Development, Snowflake for Consulting Engagements.&lt;/p&gt;&#xA;&lt;p&gt;*Sorry True Data Scientist, you are referred as a ML Engineer here.&lt;/p&gt;&#xA;&lt;p&gt;A slightly longer version: Between those two, If you are looking for a Modern Data Warehousing solution mainly serving Data Analyst or Business Analyst, pick Snowflake; If you are looking for a modern Data Lake mainly serving Data Scientists and Engineers , pick Databricks. If you are looking for something serving all of them, either would work - But what is your team&amp;rsquo;s bread and butter?&lt;/p&gt;</description>
     </item>
   </channel>
