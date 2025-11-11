@@ -1,26 +1,32 @@
-# General
+
+# Hugo build output
+/public/
+/resources/_gen/
+/hugo_cache/
+/hugo_stats.json
+
+# OS-generated files
 .DS_Store
-.AppleDouble
-.LSOverride
+Thumbs.db
 
-# Icon must end with two \r
-Icon
+# IDE / editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
 
-# Thumbnails
-._*
+# Node / npm (if using PostCSS, Tailwind, etc.)
+node_modules/
+package-lock.json
+yarn.lock
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
+# Log and temporary files
+*.log
+*.tmp
+*.bak
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+# Lock files
+.hugo_build.lock
+
+# Deployment scripts (optional)
+.deploy*/
