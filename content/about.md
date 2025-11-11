@@ -35,3 +35,5 @@ I am proficient in data and AI tech stack which includes:
 - Programming languages (Python, SQL, Scala, Java, R)
 
 The postings on this site are my own and do not necessarily represent my employer's positions, strategies, or opinions.
+
+Content on this site may be generated or refined using a language model, based on original notes or draft materials.
