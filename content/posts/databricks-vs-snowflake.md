@@ -2,6 +2,7 @@
 title: Databricks vs Snowflake
 date: 2024-11-05
 lastmod: 2025-11-11
+description: A practitioner’s take on Databricks vs Snowflake - who they serve best, why we consolidated on Databricks, and how to choose based on workloads, skills, and cost—plus context on benchmarks, openness, and the evolving rivalry.
 draft: false
 ---
 
