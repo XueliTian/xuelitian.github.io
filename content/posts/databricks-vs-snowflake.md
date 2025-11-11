@@ -1,6 +1,7 @@
 ---
 title: Databricks vs Snowflake
 date: 2024-11-05
+lastmod: 2025-11-11
 draft: false
 ---
 
