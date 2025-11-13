@@ -8,11 +8,11 @@ draft: false
 
 # TL;DR
 
-Databricks for AI, Snowflake for BI; Databricks for Engineering*, Snowflake for Analyst; Databricks for In-house Development, Snowflake for Consulting Engagements.
+Databricks for AI, Snowflake for BI; Databricks for Engineers*, Snowflake for Analysts; Databricks for In-house Development, Snowflake for Consulting Engagements.
 
 *Sorry True Data Scientist, you are referred as a ML Engineer here.
 
-A slightly longer version: Between those two, If you are looking for a Modern Data Warehousing solution mainly serving Data Analyst or Business Analyst, pick Snowflake; If you are looking for a modern Data Lake mainly serving Data Scientists and Engineers , pick Databricks. If you are looking for something serving all of them, either would work - But what is your team's bread and butter?
+A slightly longer version: Between those two, If you are looking for a Modern Data Warehousing solution mainly serving Data Analysts or Business Analysts, pick Snowflake; If you are looking for a modern Data Lake mainly serving Data Scientists and Engineers , pick Databricks. If you are looking for something serving all of them, either would work - But what is your team's bread and butter?
 
 # Why I qualify to comment
 
